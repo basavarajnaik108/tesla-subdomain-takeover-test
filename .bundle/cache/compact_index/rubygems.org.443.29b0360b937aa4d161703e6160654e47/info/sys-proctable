@@ -1,0 +1,132 @@
+---
+0.8.1-x86_64-linux test-unit:>= 2.0.2|checksum:8e7d1a431b946aceaaca2e679742ad2cce49eb637231fbe42047e6a936a7f7d7,ruby:>= 1.8.2
+0.8.1-x86-freebsd-7 test-unit:>= 2.0.2|checksum:aa76e102e60cce11a9c69a451563de5ef364ebfa826b3a5c9b39f9d5f453a0f0
+0.8.1-x86-linux test-unit:>= 2.0.2|checksum:05a08aa46d0735370f690aff2d0545b63f69ddbc8e58427dc8dde368efa7a550,ruby:>= 1.8.2
+0.8.1-x86-mswin32-60 test-unit:>= 2.0.2|checksum:6fb551c9125eaa91b1d1777bf88b582aa8a759702c26689675d28e0071898b57,ruby:>= 1.8.2
+0.7.3 |checksum:ad1ea6bb45fe3bdcc763f809f1b08b10fb066fc5d7125cd34a0b0f8a826ea2d7,ruby:>= 1.8.0
+0.7.4 |checksum:43d1fdd9b80319b28ee7d00d7fb983c7edc6e0b7cb782ac1cab22382eb1c0290,ruby:>= 1.8.0
+0.7.5 |checksum:5292c82bfb0e72e6a6dbb2268ecbc35b93a188528dab52cf1236ec7441785c49,ruby:>= 1.8.0
+0.7.6-powerpc-darwin |checksum:eb5bfa67d8d26cabc91625b1bf7ce100fbce736e5a01eb954707693a861044b2,ruby:>= 1.8.0
+0.7.6 |checksum:df3bcfd667efdf3902f272359d9d8b208d0b3fe945323e708c37932b1214fa4f,ruby:>= 1.8.0
+0.8.0-sparc-solaris-2.10 test-unit:>= 2.0.2|checksum:5adb4619a3c4f4ab41da82ede61045189b0d28a0c629f569d50c49a42f35aa12,ruby:>= 1.8.2
+0.8.0-x86-darwin-8 test-unit:>= 2.0.2|checksum:0c24e2b644835595dddd75b0b580792936ee0adfb21baac35c304c919452f82a
+0.8.0-x86-freebsd-7 test-unit:>= 2.0.2|checksum:592fd1b04d60412e1a5c997caf0db79196d4e53d82afef116bce1745fb62fdc8
+0.8.0-x86-linux test-unit:>= 2.0.2|checksum:ccd10040a3b57250524aea5b2cefb96fe9ef68718801d81ef1eec4dcd6541df4,ruby:>= 1.8.2
+0.8.0-x86-mswin32-60 test-unit:>= 2.0.2|checksum:60819f98ee701f3d89eb327358a7e622e31ab3dd2ce12e53279a2a21390b7e34,ruby:>= 1.8.2
+0.8.1-sparc-solaris-2.10 test-unit:>= 2.0.2|checksum:b33007122a2e4a0816ee4bd1d44c5dea48d4b6d32064a96df13c34f60ccd6595,ruby:>= 1.8.2
+0.8.1-x86-darwin-8 test-unit:>= 2.0.2|checksum:d1bbc8994c80408fe58a1957a8e4f7a4751c628af4fda088c25e48b938dceec5
+0.7.4-mswin32 |checksum:1c3fde7c651ef12e64c77a03ac2b4f387f365bfd8f3e6f8abfea8627df607c47,ruby:>= 1.8.2
+0.7.5-mswin32 |checksum:5c137912c104337ea04c50f36d73068872bf4da2b2300a49dd577e658b388947,ruby:>= 1.8.2
+0.7.6-i586-linux |checksum:d43913beede63138e29a419d578589052d034f37cba0e14792a6de262b8eccb6,ruby:>= 1.8.0
+0.7.6-mswin32 |checksum:c4cedd94c77b84a9055dee4a0b149b775e282b5dc6bf97e5f168789e9fb85c1e,ruby:>= 1.8.2
+0.8.2-x86-darwin-8 |checksum:ab6488b35f1d4b5ea739df8bcd5afdfa0148658f991ed144f914f877a5f64a9d
+0.8.2-x86-mswin32-60 |checksum:fac4f4231af45d27358eb006df383f19e4375bde27d59048ef772b06f083bd21
+0.8.2-x86-solaris-2.10 |checksum:76bb38d9cf7298ca00b958806e7bbbe09a7135ad55bb1aa81d27af0dd9a51705
+0.8.2-x86-linux |checksum:f1f20d13e78a49b3a11a896b01230b19468a9fee296d342dfdc01dc7a6bee54c
+0.9.0-x86-darwin-8 |checksum:4217a62c1281299ac0ff8d45fb0ae9229f7cd77a33c92b9d80ab71c52b19e75b
+0.8.2-x86-freebsd-7 |checksum:1f1f36aa490c395c8a629f724bda7152121357c8fc38fa6ea88479cea7eec847
+0.9.0-x86-freebsd-7 |checksum:441f8174836e2bdb2124546de6f2a02b4c50ed4d26f3cf9bcf4854ea7054b4e4
+0.9.0-x86-linux |checksum:c0ff4853a01c74e36e12d53178d5e10de91a709dc3bd179c0838ed3e3b8cf084
+0.9.0-x86-mswin32-60 |checksum:4b029121e6fa49da31b30731bcd46aa6cac8abe27128d1b77582154fdfd3f011
+0.9.0-x86-solaris-2.10 |checksum:af7f865e9652c9f926c9389695a819f74ce9a8002ffac964f84e432f0de765e7
+0.9.1-universal-mingw32 |checksum:8d3d4f6394ea791699461ecbae31563180d3f8cd7791acf3080b71379a4c4bb4
+0.9.1-universal-darwin |checksum:9f6161e55189a1807168f61bdc714c3ba7567d55820e91553aefddc64e91c244
+0.9.1-universal-linux |checksum:8b4e8715cdb6f5cca2ceb9f2873de7e812b65679b17f5b6a6c2eb6bb4aa27598
+0.9.1-universal-solaris |checksum:565930efdd532c6b8465bed8e5f5814c2d892eb169548cd5b01cc6359cb3349c
+0.9.1-universal-freebsd |checksum:71f81fb2fa1633eb742d205e99d78ee3ff14d6b3135e097025c50f4107891a73
+0.9.2-universal-mingw |checksum:de17b51c0872fc1adb5af39854a7e4454179d8b55878650c7c859506e6b0994e
+0.9.2-universal-darwin |checksum:3f904ea212b417e08e580d2d997a2ba59097baea00c19d50e936a4d30ba0b015
+0.9.2-universal-linux |checksum:d27eceb46771f538c0472e6af7071b7c83b73110af800523286d62d1ac73e7db
+0.9.2-universal-solaris |checksum:fe120e0369b9a711990373312079722ef84ba53eb67851fa32c438a6b3bd8eb4
+0.9.2-universal-freebsd |checksum:e47fc0b0d1e9948e9efe5208091dfd8ca6aa6b681b8aef4c7010bfbc60206306
+0.9.2-universal-mingw32 |checksum:ea67da10a01e746b01d509d6034b307d1b35e4f936f12ed892c3c65b9fc6afef
+0.9.3-universal-freebsd |checksum:da322a44d01030545bba4147b9184ad7af0603b5a060c0b60a8a54a2380e6688
+0.9.3-universal-solaris |checksum:4484e9ecead6b47ed66482b3a976b32871cbd8c32daa91e55c501c4500d2e283
+0.9.3-universal-linux |checksum:07ffec6066212f4ffec1e77f30da5c8b3a07b5b63229f2d241708834f1ffccef
+0.9.3-universal-mingw32 |checksum:d9832c18ea120de6dcb26047852daad270e396b52985bd5eeca071061aaf47d3
+0.9.3-universal-darwin |checksum:3f47d32af52bef7572bc494fd2d8ac1ef7ab01330df60f4ce6cc7fb17f1c1853
+0.9.4-universal-darwin |checksum:4cd62145db55a22e47a90fe08b8d9d7d1819d507d11d6c9f9ac7bfeae7d7fbcd
+0.9.4-universal-mingw32 |checksum:c8fd02a359cc1762fad876615a44bb7f558416fc8f51cd332283eadaac22dbb1
+0.9.4-universal-solaris |checksum:ea7ac91cd01f4fea7c4c177c9bbea2f57808773aed1b56d7b1127de8e3623927
+0.9.4-universal-linux |checksum:defbedebe10333e144c780fdc61320d28fe15b667bb37d6fb42ada7993247d24
+0.9.4-universal-freebsd ffi:>= 0|checksum:dd3e405ba6050c6484f6d033dc7c26426a7d48e599d7fa342fdaeefdad179686
+0.9.5-universal-darwin |checksum:f0c8ff20a8f6cdf8897692b84667b3b8aed81c3ca4a1e1b772b68098ebbcfb89
+0.9.5-universal-freebsd ffi:>= 0|checksum:38872cd3ca461d21b8dc40fe1c7ed63c6969fcc8b063e85d7ad5a1675cbf3138
+0.9.5-universal-solaris |checksum:4a484df89911782199e52e9672d11e23a15af92febf1b8bcdfc62bf6bc4dc4bf
+0.9.5-universal-mingw32 |checksum:7c5ecaeae7f28adedbdba956bfc35a30a23f53bed9f4b2ec53b15f48b7542747
+0.9.5-universal-linux |checksum:897c11a3c7519c5de2663a823c618509364ab8abb7fc02d7444cf743fd2f41d1
+0.9.6-universal-darwin |checksum:ae4c89741e83e7762376ae8e0ee4e89abe650457cf0f3c39a141877d0c8b5b3e
+0.9.6-universal-freebsd ffi:>= 0|checksum:f8a6a6abfc017924f68086066a12cf3be232d3af89a10aee8a4e50dbcf67c202
+0.9.6-universal-linux |checksum:48c73a7409efe7dd76d0326827ce7bce2ba58f8d344d48b32aaee089332ad7b0
+0.9.6-universal-solaris |checksum:1686bc3b8cea4131ed35d2d11d9f74e6b7642f4810990798692ab2f0c9e1b460
+0.9.6-universal-mingw32 |checksum:861f56c6b816da6e2e31ccf845842356545ff2f2e16f5352081d92a3a4b39baf
+0.9.8-universal-darwin |checksum:735865b14fd13c25b65eba59e410e86b9a26b96d8aec969e07d051a34909ea17
+0.9.8-universal-linux |checksum:7bd02b8610c65345063a04dc577aeb3d2c996c0a7e0ca25516268ebf89ddc2d6
+0.9.8-universal-mingw32 |checksum:0336ac318c70239aeb7557b13b2ba04c53c8e39213cbb0eabefcf231c60dc9b6
+0.9.8-universal-solaris |checksum:fe562c74616a2f663401eda7128bd1f8741d5624c778bc8ea5b42adf5fc06629
+0.9.8-universal-freebsd ffi:>= 0|checksum:e711236a4b4270607898e2169230af8a52c145b0482059d65a4fdb48b165341c
+0.9.9-universal-aix5 |checksum:2ff5fe1405ac8d2145f4c2b55991c8c4915cf0955ac35a337d8c09991885d8c2
+0.9.9-universal-darwin |checksum:a92aa86dda1d4f86db5c5a874a9febd4450e542ac4109686b66cd89f62b1e15a
+0.9.9-universal-freebsd ffi:>= 0|checksum:3971f561939c7871036ad5c88bb42dc68ceeb607bff3f1fe62059956e2f4a19b
+0.9.9-universal-hpux |checksum:22ca925c61d1ca6b969686defcc7896b18f0ec919ea021f960ff75b385c003be
+0.9.9-universal-linux |checksum:833a60d2c5230044275c8773d3cad109f37be3b0503898420cbcf6df74481e5d
+0.9.9-universal-solaris |checksum:69c6d98c5389b241090a661b3019dd0f0db91026eabad080183f0c32660a7a4b
+0.9.9-universal-mingw32 |checksum:2bee7d3d7849296d421f94a882c8caeab1141549b9417bb6b68642ee3d9420a1
+1.0.0-universal-aix5 |checksum:071381419132d653b3d4950d641e1a33ebae645d9697373ef61980e32799474e
+1.0.0-universal-darwin |checksum:af413caf5c0e73f94aff612caadff34f20fd1725c53360c729fa2447509a8505
+1.0.0-universal-freebsd ffi:>= 0|checksum:a35282d867561df2ca9ed2fdc47bf6ce9b67cf228483b526880439606b383af2
+1.0.0-universal-hpux |checksum:ff2fb9adece9782953dfc3fc2e9f6a2cdd6872ce49e3e39fc48a40ff3a52ec2f
+1.0.0-universal-linux |checksum:833b9aa1f1869ecd2902be5676de34e1e64f8dbb344030a5caebcdaf0755aacb
+1.0.0-universal-solaris |checksum:e5e4c5574332119726509e44e2e20ad7695541db21938f6c5445d92649e5d140
+1.0.0-universal-mingw32 |checksum:293d374ffffde35032b47ea8057c01a3d30e7ce6f64d5f67c08359a1b6509569
+1.1.0-universal-darwin ffi:>= 0|checksum:aff7960e7dcf3d9ec51a7a4fc95ddfebd514be0a90d29bb1189f7c855b9bc776
+1.1.0-universal-mingw32 |checksum:aa126ad119619c084df9400d5d10ed9dd47c050618d4ddf07e99627e28989d0d
+1.1.0-universal-linux |checksum:5841438113784f5d0a3249627f0fa1cfb6d83ffafa733ccd62dab69852d90c8d
+1.1.0-universal-solaris |checksum:48f3af5294d0e375bb81b5589ce996f07f6befbb3db79aff65ed36c0408a9cc9
+1.1.0-universal-freebsd ffi:>= 0|checksum:d81477c2c7f25bf0eec8b5bcb7a5237624b7eeb57584d443d10f3b6b125a27bb
+1.1.0-universal-hpux |checksum:eac5dfdc4a96430958f1d596a62d7799f96f721810e6a0be2b1debf9f451f7ba
+1.1.0-universal-aix5 |checksum:564b724b0bdd48beadb8164af7f88e1c8df70e1f3d568f5886666228ce6e08e3
+1.1.1-universal-aix5 |checksum:3cb390f6d748280806bf34066ae9f63942e758b3a2e081e44adc2164ab18bc8f
+1.1.1-universal-darwin ffi:>= 0|checksum:1fbc59bfae839c9407a4614eab90d3e7b589d398d7d491a06e0f6ef47639bf33
+1.1.1-universal-freebsd ffi:>= 0|checksum:953422bd903f97b83727c63b5209d63d361bd8decaea21150a4b40c540e15e59
+1.1.1-universal-hpux |checksum:27b59da45f535564d210432d5788942eee5bd16850b92dfc867df0cf66075596
+1.1.1-universal-linux |checksum:b287d32ef61502e864aec7031c5e844d631460ce6456cab7c21ffedbab8b168f
+1.1.1-universal-solaris |checksum:e72a1a601362888f4482b8e906b18ad4523fabe9cad7176cb0df6bd61b4c9935
+1.1.1-universal-mingw32 |checksum:cde39cfe151b61bb78f743e5eac25810a2a15c4a481d50140da4127ed23911f8
+1.1.2-universal-aix5 |checksum:a99176d9fa6d6135e133a5b55ac07d6ac9c26d861e16c2041b7568f042e72805
+1.1.2-universal-darwin ffi:>= 0|checksum:97a6eaea129dabfedae82aa288be738db584dcedaf7d8cd836509ac5f8683362
+1.1.2-universal-freebsd ffi:>= 0|checksum:82d786182213b38b0952a1213f9a3fd7a361ada2d905333ae6f1e2c7ffb1187a
+1.1.2-universal-hpux |checksum:e16344786d1ee0c9e195fbfc7c86ec52d755b2849ae8b38d6d5e1926edab424b
+1.1.2-universal-linux |checksum:a5c7501dea51600c82f910063bf6026f5e6b62a427b78fa0550024848b447346
+1.1.2-universal-solaris |checksum:d73a05ebe8f9b8ce7416a4cabfcf7cb50cd8c4e8b3bf21570ad2ecb13c246400
+1.1.2-universal-mingw32 |checksum:e7ebea4a41ae096f539c37167eb50aceb94a35df54df65395098ad1970ce5d51
+1.1.3-universal-aix5 |checksum:72f8e47c5ae3661846f97fea1b49d231b22afa637ac85c31b8ae5861b8b3999b
+1.1.3-universal-darwin ffi:>= 0|checksum:c3e5230c8f19224a20a98dc3d834fe8b5ad67fd38d41d3fee3c16c807c3ff6f1
+1.1.3-universal-freebsd ffi:>= 0|checksum:89db43b9684d62ede2f405c52575c9c5e2c0b5827795100634f253ebc76a3069
+1.1.3-universal-hpux |checksum:2146d582664e541a18b2d06f005385f916d8d50c35fcb3d656466c73e43aec2f
+1.1.3-universal-linux |checksum:233a4a1ac040a799c7f3f3e951f5c82f1728ed14e7e12c3ccbfce3df991cabff
+1.1.3-universal-solaris |checksum:f9ae184cf5e4d2c747f23d977a12ccb92d206f746b64ea632fd0ddb7f32b7b39
+1.1.3-universal-mingw32 |checksum:ffc91a0878c2c9caa7af07c0647e520b589b0b5b26015a46a855f83a1c2e8724
+1.1.4-universal-aix5 |checksum:3e8a22b66070792d0726b0cd39457deaa37e7939516c53eda2415a73d9bfe5f3
+1.1.4-universal-darwin ffi:>= 0|checksum:1de8a4cb9676d07d99ed4143fefc21c9ab5c25880dd1c6af01b42e681283a426
+1.1.4-universal-freebsd ffi:>= 0|checksum:8863b09ccad691ae18afa5911b5084ef3f8cb6a58fb9820a4f35050d54e2e280
+1.1.4-universal-hpux |checksum:8833e2f69f0dab054a697634bd00c442e4e0e35b65b73ee74b3b4efafe1b4a62
+1.1.4-universal-linux |checksum:9394b17d6a4cffd10414496fc9532fca35368a9d58a1af499cc9793898431c79
+1.1.4-universal-solaris |checksum:add85552d142a3106504e2ad80ec84307e9bcaf63e31e8dc10c54a5b9406e69c
+1.1.4-universal-mingw32 |checksum:01dc1ece390fba9ecfce659b30c5706a67bf9fe1c8f49ac2eaa8ce1b51198776
+1.1.5-universal-aix5 |checksum:a3aaf6739b6d0172a90e0c8e0c7db60ac974ce1cca8b33885d8d399a13db6b00
+1.1.5-universal-darwin ffi:>= 0|checksum:6ad7a99bbda9a67868a5b29964dd5c76552d9eec49fca4e66ed5fe9b060c78a2
+1.1.5-universal-freebsd ffi:>= 0|checksum:2c4a5c25b6842286e4c5ea7b3800c50e0a221d4a0f5b08ae3fafc56d7551fb9b
+1.1.5-universal-hpux |checksum:e0857b26395c98b4324281eb85a4bef1c2c2e02f27b9d1e4c1426ecbf731f66d
+1.1.5-universal-linux |checksum:cd2e40b079e0c581aa6c14d4250a544f2cbbcdf6e10433a7f84d04c0c7f22149
+1.1.5-universal-solaris |checksum:be719ed16c899a526684c2012987ad78032397cc79b7e1820610398a4f8fb842
+1.1.5-universal-mingw32 |checksum:c0a549e3eaf7e909ff61f92b333d6fc48611d38e559005a5504bf6d320d21acb
+1.2.0 ffi:>= 0|checksum:bdba9cdf5f590a764cbeb25966d5ee0f70eaf982da089cfa61ebe119371bcaa6
+1.2.1 ffi:>= 0|checksum:215bc663b7a045557d0d560fe43216c2606b2cb7891eb9575232999315a46906
+1.2.2 ffi:>= 0|checksum:880f9e65885badf1bc8bfab49fb125516b0be79a40eec5ca366993762319b359
+1.2.3 ffi:>= 0|checksum:891ad4a36d53c668ff376da94fe49db0238775ddb41aa3b9ce4fdabd331b0c6c
+1.2.4 ffi:>= 0|checksum:2ba0ab9f92bbae9ffdcb0a4341654b33d418b440025e72a24f2072946f9114c8
+1.2.5 ffi:>= 0|checksum:8e61c30cea5573b4ac78bbe9b68657fadc218080811c8ef6e939f73f649b1349
+1.2.6 ffi:>= 0|checksum:4b7f0196415501d7bd1266243a35e782f3c208b4dc2388059100434e7558ff9f
+1.2.7 ffi:~> 1.1|checksum:50252ca7ae3792c0fb4c5f4306697f10b4d9da73fa042d29e4eaa64017e83188
+1.3.0 ffi:~> 1.1|checksum:31f61ad79aa0d4412155132beadf2b7ca706a6badce4ad2dfeda5d1ca4916e54

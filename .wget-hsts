@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+portswigger-cdn.net	0	0	1740734941	31536000
+raw.githubusercontent.com	0	0	1740736065	31536000
+portswigger.net	0	0	1740734941	31536000
