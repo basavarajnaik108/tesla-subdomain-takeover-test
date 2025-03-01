@@ -1,0 +1,1713 @@
+Host CitiApiEncProdv4.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: CitiApiEncProdv4.tesla.com
+Host CitiApiEncSandboxv4.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: CitiApiEncSandboxv4.tesla.com
+Host CitiApiSslProdv4.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: CitiApiSslProdv4.tesla.com
+Host CitiApiSslSandboxv4.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: CitiApiSslSandboxv4.tesla.com
+Host CitiBankStatementSHA512.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: CitiBankStatementSHA512.tesla.com
+Host OpenADRClient.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: OpenADRClient.tesla.com
+Host Payx-CitiAPI-Prod.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: Payx-CitiAPI-Prod.tesla.com
+Host acme-sentry-4.eng.use1.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: acme-sentry-4.eng.use1.vn.cloud.tesla.com
+Host acme-sentry-4a.eng.use1.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: acme-sentry-4a.eng.use1.vn.cloud.tesla.com
+Host acs2-poc.voice.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: acs2-poc.voice.tesla.com
+Host akamai-apigateway-einvoicing-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-einvoicing-stg.tesla.com
+Host akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com
+Host apac.logs.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: apac.logs.tesla.com
+Host api-account-master.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: api-account-master.tesla.com
+Host api-toolbox.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: api-toolbox.tesla.com
+Host appplayer.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: appplayer.tesla.com
+Host assets.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: assets.extgithub.tesla.com
+Host assets.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: assets.github-ap.tesla.com
+Host assets.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: assets.github-fw.tesla.com
+Host assets.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: assets.github-it.tesla.com
+Host assets.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: assets.github.tesla.com
+Host autobidder-eng.powerhub.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: autobidder-eng.powerhub.energy.tesla.com
+Host avatars.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: avatars.extgithub.tesla.com
+Host avatars.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: avatars.github-ap.tesla.com
+Host avatars.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: avatars.github-fw.tesla.com
+Host avatars.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: avatars.github-it.tesla.com
+Host avatars.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: avatars.github.tesla.com
+Host awsbtest.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: awsbtest.tesla.com
+Host bctpay.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: bctpay.tesla.com
+Host bom01-gpgw1.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: bom01-gpgw1.tesla.com
+Host bottlerocket.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: bottlerocket.tesla.com
+Host c382p434p572c.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: c382p434p572c.tesla.com
+Host ca.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: ca.tesla.com
+Host ciscoguest.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: ciscoguest.tesla.com
+Host citiapiencpoc.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapiencpoc.tesla.com
+Host citiapiencpocV2.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapiencpocV2.tesla.com
+Host citiapiencpocV3.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapiencpocV3.tesla.com
+Host citiapisslpoc.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapisslpoc.tesla.com
+Host citiapisslpocV2.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapisslpocV2.tesla.com
+Host citiapisslpocV3.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapisslpocV3.tesla.com
+Host cn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cn.tesla.com
+Host codeload.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: codeload.extgithub.tesla.com
+Host codeload.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: codeload.github-ap.tesla.com
+Host codeload.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: codeload.github-fw.tesla.com
+Host codeload.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: codeload.github-it.tesla.com
+Host codeload.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: codeload.github.tesla.com
+Host containers.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: containers.extgithub.tesla.com
+Host cradlepointtest01.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cradlepointtest01.tesla.com
+Host cryptopay.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cryptopay.tesla.com
+Host cryptopay2.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cryptopay2.tesla.com
+Host cryptopay3.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cryptopay3.tesla.com
+Host cryptopay4.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cryptopay4.tesla.com
+Host cssp-dev-teleport-proxy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cssp-dev-teleport-proxy.tesla.com
+Host dev-hermes-qd.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dev-hermes-qd.tesla.com
+Host dev.kronosdb.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dev.kronosdb.tesla.com
+Host dev.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dev.tesla.com
+Host dex.ops.na.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dex.ops.na.vn.cloud.tesla.com
+Host dex.ops.vs-bnc.na.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dex.ops.vs-bnc.na.vn.cloud.tesla.com
+Host dgf.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dgf.tesla.com
+Host docker.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: docker.extgithub.tesla.com
+Host docker.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: docker.github-ap.tesla.com
+Host docker.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: docker.github-fw.tesla.com
+Host docker.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: docker.github-it.tesla.com
+Host docker.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: docker.github.tesla.com
+Host e382p434p572c.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: e382p434p572c.tesla.com
+Host employee-teslatequila.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: employee-teslatequila.tesla.com
+Host energydesk.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: energydesk.tesla.com
+Host energysupport.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: energysupport.tesla.com
+Host eu.logs.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: eu.logs.tesla.com
+Host eua-origin.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: eua-origin.tesla.com
+Host eumirror.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: eumirror.tesla.com
+Host factory-berlin.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: factory-berlin.tesla.com
+Host fleetview.prd.america.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.america.vn.cloud.tesla.com
+Host fleetview.prd.eu.fn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.eu.fn.tesla.com
+Host fleetview.prd.europe.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.europe.vn.cloud.tesla.com
+Host fleetview.prd.euw1.fn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.euw1.fn.tesla.com
+Host fleetview.prd.na.fn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.na.fn.tesla.com
+Host fleetview.prd.usw2.fn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.usw2.fn.tesla.com
+Host gf.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gf.tesla.com
+Host gfb.vdi.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gfb.vdi.tesla.com
+Host gist.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gist.extgithub.tesla.com
+Host gist.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gist.github-ap.tesla.com
+Host gist.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gist.github-fw.tesla.com
+Host gist.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gist.github-it.tesla.com
+Host gist.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gist.github.tesla.com
+Host github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: github-ap.tesla.com
+Host github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: github-fw.tesla.com
+Host github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: github-it.tesla.com
+Host githubmirror.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: githubmirror.tesla.com
+Host githubmirroraus08.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: githubmirroraus08.tesla.com
+Host githubmirrorber02.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: githubmirrorber02.tesla.com
+Host gridlogic-eng.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gridlogic-eng.energy.tesla.com
+Host gridlogic-eng.powerhub.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gridlogic-eng.powerhub.energy.tesla.com
+Host gridlogic.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gridlogic.energy.tesla.com
+Host gridlogic.powerhub.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gridlogic.powerhub.energy.tesla.com
+Host kronosdb.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: kronosdb.tesla.com
+Host lionpayshare.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: lionpayshare.tesla.com
+Host lionpaytest.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: lionpaytest.tesla.com
+Host lionshare.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: lionshare.tesla.com
+Host logs.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: logs.tesla.com
+Host logtransit-ext.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: logtransit-ext.tesla.com
+Host manager.courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: manager.courses.tesla.com
+Host maven.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: maven.extgithub.tesla.com
+Host maven.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: maven.github-ap.tesla.com
+Host maven.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: maven.github-fw.tesla.com
+Host maven.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: maven.github-it.tesla.com
+Host maven.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: maven.github.tesla.com
+Host media.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: media.extgithub.tesla.com
+Host media.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: media.github-ap.tesla.com
+Host media.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: media.github-fw.tesla.com
+Host media.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: media.github-it.tesla.com
+Host media.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: media.github.tesla.com
+Host mfa-dev.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: mfa-dev.tesla.com
+Host mfg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: mfg.tesla.com
+Host mirror.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: mirror.tesla.com
+Host my.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: my.tesla.com
+Host na.logs.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: na.logs.tesla.com
+Host naa-origin.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: naa-origin.tesla.com
+Host nas-origin.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nas-origin.tesla.com
+Host new-dev.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: new-dev.tesla.com
+Host new.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: new.tesla.com
+Host notebook.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebook.github-ap.tesla.com
+Host notebook.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebook.github-fw.tesla.com
+Host notebook.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebook.github-it.tesla.com
+Host notebooks.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebooks.extgithub.tesla.com
+Host notebooks.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebooks.github-ap.tesla.com
+Host notebooks.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebooks.github-fw.tesla.com
+Host notebooks.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebooks.github-it.tesla.com
+Host notebooks.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebooks.github.tesla.com
+Host npm.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: npm.extgithub.tesla.com
+Host npm.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: npm.github-ap.tesla.com
+Host npm.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: npm.github-fw.tesla.com
+Host npm.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: npm.github-it.tesla.com
+Host npm.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: npm.github.tesla.com
+Host nuget.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nuget.extgithub.tesla.com
+Host nuget.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nuget.github-ap.tesla.com
+Host nuget.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nuget.github-fw.tesla.com
+Host nuget.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nuget.github-it.tesla.com
+Host nuget.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nuget.github.tesla.com
+Host ny.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: ny.tesla.com
+Host owner-api.eng.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: owner-api.eng.vn.cloud.tesla.com
+Host pages.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pages.extgithub.tesla.com
+Host pages.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pages.github-ap.tesla.com
+Host pages.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pages.github-fw.tesla.com
+Host pages.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pages.github-it.tesla.com
+Host pages.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pages.github.tesla.com
+Host paloalto.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: paloalto.tesla.com
+Host payment-dlocal-prod.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: payment-dlocal-prod.tesla.com
+Host payment-dlocal-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: payment-dlocal-stg.tesla.com
+Host paymentrecon-stage.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: paymentrecon-stage.tesla.com
+Host paymentrecon.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: paymentrecon.tesla.com
+Host pilot-bpay.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pilot-bpay.tesla.com
+Host raultest.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raultest.tesla.com
+Host raw.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raw.extgithub.tesla.com
+Host raw.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raw.github-ap.tesla.com
+Host raw.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raw.github-fw.tesla.com
+Host raw.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raw.github-it.tesla.com
+Host raw.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raw.github.tesla.com
+Host render.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: render.github-ap.tesla.com
+Host render.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: render.github-fw.tesla.com
+Host render.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: render.github-it.tesla.com
+Host render.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: render.github.tesla.com
+Host reply.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: reply.extgithub.tesla.com
+Host reply.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: reply.github-ap.tesla.com
+Host reply.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: reply.github-fw.tesla.com
+Host reply.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: reply.github-it.tesla.com
+Host reply.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: reply.github.tesla.com
+Host resources.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: resources.tesla.com
+Host rubygems.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rubygems.extgithub.tesla.com
+Host rubygems.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rubygems.github-ap.tesla.com
+Host rubygems.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rubygems.github-fw.tesla.com
+Host rubygems.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rubygems.github-it.tesla.com
+Host rubygems.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rubygems.github.tesla.com
+Host rumipv6.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rumipv6.tesla.com
+Host s3-sidekick-ssl.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: s3-sidekick-ssl.github.tesla.com
+Host sandbox-manager.courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sandbox-manager.courses.tesla.com
+Host sandbox-studio.courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sandbox-studio.courses.tesla.com
+Host sca.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sca.tesla.com
+Host secureaccess.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: secureaccess.tesla.com
+Host signaling-ap-api.eng.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: signaling-ap-api.eng.vn.cloud.tesla.com
+Host sling.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sling.tesla.com
+Host smarttax.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: smarttax.tesla.com
+Host smt.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: smt.tesla.com
+Host sso-dec.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sso-dec.tesla.com
+Host sso-sandbox.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sso-sandbox.tesla.com
+Host sso-sig.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sso-sig.tesla.com
+Host stage.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: stage.tesla.com
+Host studio.courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: studio.courses.tesla.com
+Host studio.sandbox-courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: studio.sandbox-courses.tesla.com
+Host tesla-inc-docsys-eorg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: tesla-inc-docsys-eorg.tesla.com
+Host teslaquila.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: teslaquila.tesla.com
+Host toolbox-beta.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: toolbox-beta.tesla.com
+Host uploads.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: uploads.extgithub.tesla.com
+Host uploads.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: uploads.github-ap.tesla.com
+Host uploads.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: uploads.github-fw.tesla.com
+Host uploads.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: uploads.github-it.tesla.com
+Host uploads.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: uploads.github.tesla.com
+Host vdi.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: vdi.tesla.com
+Host vehicle-files.eng.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: vehicle-files.eng.vn.cloud.tesla.com
+Host vehicle-files.prd.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: vehicle-files.prd.vn.cloud.tesla.com
+Host viewscreen.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: viewscreen.extgithub.tesla.com
+Host viewscreen.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: viewscreen.github-ap.tesla.com
+Host viewscreen.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: viewscreen.github-fw.tesla.com
+Host viewscreen.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: viewscreen.github-it.tesla.com
+Host viewscreen.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: viewscreen.github.tesla.com
+Host vpn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: vpn.tesla.com
+Host vrp-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: vrp-stg.tesla.com
+Host warpbilling.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: warpbilling.tesla.com
+Host wim.kronos.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: wim.kronos.tesla.com
+Host www-dev.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www-dev.tesla.com
+Host www-stg2.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www-stg2.tesla.com
+Host www-test.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www-test.tesla.com
+Host www-uat2.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www-uat2.tesla.com
+Host www.gridlogic.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.gridlogic.energy.tesla.com
+Host www.powerhub.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.powerhub.energy.tesla.com
+Host www.sandbox-studio.courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.sandbox-studio.courses.tesla.com
+Host www.teslaquila.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.teslaquila.tesla.com
+Host www.teslatequila.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.teslatequila.tesla.com
+Host www.toolbox.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.toolbox.tesla.com
+Host www.ug.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.ug.tesla.com
+Host www.vpn1.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.vpn1.tesla.com
+Host www45.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www45.tesla.com
+Host zpra.tesla.com not found: 3(NXDOMAIN)
+Host zpra.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: zpra.tesla.com
+Host lyncdiscover.c.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: lyncdiscover.c.tesla.com
+Host viewscreen.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: viewscreen.github-ap.tesla.com
+Host search-akamai-apigateway-logisticsratesapi.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi.tesla.com
+Host new-dev.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: new-dev.tesla.com
+Host naa-origin.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: naa-origin.tesla.com
+Host tradein.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: tradein.tesla.com
+Host stage.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: stage.tesla.com
+Host wim.kronos.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: wim.kronos.tesla.com
+Host kronosdb.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: kronosdb.tesla.com
+Host gist.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gist.extgithub.tesla.com
+Host pages.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pages.github-it.tesla.com
+Host pages.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pages.github-ap.tesla.com
+Host bottlerocket.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: bottlerocket.tesla.com
+Host rumipv6.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rumipv6.tesla.com
+Host rioolbuizens.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rioolbuizens.tesla.com
+Host pages.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pages.github-fw.tesla.com
+Host citiapisslsandboxv4.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapisslsandboxv4.tesla.com
+Host search-akamai-apigateway-tomcat.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-tomcat.tesla.com
+Host lionpaytest.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: lionpaytest.tesla.com
+Host oneteam.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: oneteam.tesla.com
+Host cradlepointtest01.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cradlepointtest01.tesla.com
+Host tesla-inc-docsys-eorg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: tesla-inc-docsys-eorg.tesla.com
+Host enterpriseregistration.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: enterpriseregistration.tesla.com
+Host teslacdpna0.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: teslacdpna0.tesla.com
+Host github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: github-fw.tesla.com
+Host fleetview.prd.euw1.fn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.euw1.fn.tesla.com
+Host studio.courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: studio.courses.tesla.com
+Host akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com
+Host akamai-apigateway-stg-sandbox-automation.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-stg-sandbox-automation.tesla.com
+Host gantry.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gantry.tesla.com
+Host ww.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: ww.tesla.com
+Host studio.sandbox-courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: studio.sandbox-courses.tesla.com
+Host darkfield.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: darkfield.tesla.com
+Host payment-public-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: payment-public-stg.tesla.com
+Host openadrclient.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: openadrclient.tesla.com
+Host containers.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: containers.extgithub.tesla.com
+Host search-akamai-apigateway-logisticsratesapinl.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapinl.tesla.com
+Host blog.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: blog.tesla.com
+Host q1haoturxk.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: q1haoturxk.tesla.com
+Host warehouse-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: warehouse-stg.tesla.com
+Host vehicle-files.prd.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: vehicle-files.prd.vn.cloud.tesla.com
+Host search-akamai-apigateway-logisticsratesapi-db.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi-db.tesla.com
+Host zpra.tesla.com not found: 3(NXDOMAIN)
+Host zpra.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: zpra.tesla.com
+Host mfa-dev.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: mfa-dev.tesla.com
+Host media.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: media.github-fw.tesla.com
+Host pages.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pages.github.tesla.com
+Host sso-sandbox.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sso-sandbox.tesla.com
+Host gist.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gist.github-ap.tesla.com
+Host www.epc.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.epc.tesla.com
+Host sso-sig.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sso-sig.tesla.com
+Host viewscreen.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: viewscreen.github-fw.tesla.com
+Host owner-api.eng.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: owner-api.eng.vn.cloud.tesla.com
+Host wy7vtk21un.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: wy7vtk21un.tesla.com
+Host sca.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sca.tesla.com
+Host github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: github-ap.tesla.com
+Host origin-itanswers.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: origin-itanswers.tesla.com
+Host www.gridlogic.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.gridlogic.energy.tesla.com
+Host uploads.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: uploads.github-fw.tesla.com
+Host cssp-dev-teleport-proxy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cssp-dev-teleport-proxy.tesla.com
+Host toolbox-beta.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: toolbox-beta.tesla.com
+Host na-2-sso.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: na-2-sso.tesla.com
+Host citibankstatementsha512.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citibankstatementsha512.tesla.com
+Host na-sso.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: na-sso.tesla.com
+Host www.sandbox-studio.courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.sandbox-studio.courses.tesla.com
+Host api-account-master.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: api-account-master.tesla.com
+Host github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: github-it.tesla.com
+Host search-akamai-apigateway-logisticsratesapi-engine.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi-engine.tesla.com
+Host assets.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: assets.github.tesla.com
+Host pages.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pages.extgithub.tesla.com
+Host gfb.vdi.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gfb.vdi.tesla.com
+Host www-uat2.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www-uat2.tesla.com
+Host vpn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: vpn.tesla.com
+Host search-akamai-apigateway-logisticsratesapiapp.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapiapp.tesla.com
+Host akamai-apigateway-stg-global-deliveryopsapi.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-stg-global-deliveryopsapi.tesla.com
+Host na-eq-sso.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: na-eq-sso.tesla.com
+Host notebooks.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebooks.github.tesla.com
+Host notebooks.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebooks.extgithub.tesla.com
+Host www-test.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www-test.tesla.com
+Host codeload.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: codeload.github.tesla.com
+Host akamai-apigateway-scraprecycle.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-scraprecycle.tesla.com
+Host akamai-apigateway-stg-bender.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-stg-bender.tesla.com
+Host zta-setup.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: zta-setup.tesla.com
+Host three.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: three.tesla.com
+Host vehicle-files.eng.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: vehicle-files.eng.vn.cloud.tesla.com
+Host aaa-dr.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: aaa-dr.tesla.com
+Host search-akamai-apigateway-logisticsratesapi-reset.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi-reset.tesla.com
+Host raw.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raw.github.tesla.com
+Host akamai-apigateway-mfs-gfb-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-mfs-gfb-stg.tesla.com
+Host maven.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: maven.github-fw.tesla.com
+Host githubmirroraus08.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: githubmirroraus08.tesla.com
+Host energydesk.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: energydesk.tesla.com
+Host maven.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: maven.github-it.tesla.com
+Host origin-referral-app.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: origin-referral-app.tesla.com
+Host mail.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: mail.tesla.com
+Host tssapi-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: tssapi-stg.tesla.com
+Host bom01-gpgw1.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: bom01-gpgw1.tesla.com
+Host awsbtest.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: awsbtest.tesla.com
+Host media.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: media.github-it.tesla.com
+Host origin-inside-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: origin-inside-stg.tesla.com
+Host teslacmgus0.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: teslacmgus0.tesla.com
+Host akamai-apigateway-stg2-global-deliveryopsapi.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-stg2-global-deliveryopsapi.tesla.com
+Host citiapisslpocv2.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapisslpocv2.tesla.com
+Host raw.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raw.extgithub.tesla.com
+Host ciscoguest.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: ciscoguest.tesla.com
+Host payment-dlocal-prod.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: payment-dlocal-prod.tesla.com
+Host new.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: new.tesla.com
+Host gridlogic-eng.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gridlogic-eng.energy.tesla.com
+Host gf-modeling-mpp.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gf-modeling-mpp.tesla.com
+Host vrp-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: vrp-stg.tesla.com
+Host ny.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: ny.tesla.com
+Host auth-i.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: auth-i.tesla.com
+Host akamai-apigateway-finplat-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-finplat-stg.tesla.com
+Host apac-sso.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: apac-sso.tesla.com
+Host eua-origin.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: eua-origin.tesla.com
+Host www45.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www45.tesla.com
+Host dev-hermes-qd.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dev-hermes-qd.tesla.com
+Host pop.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pop.tesla.com
+Host aurora-ordering-ext-qa.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: aurora-ordering-ext-qa.tesla.com
+Host kpai7ycr7jxqkilp.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: kpai7ycr7jxqkilp.tesla.com
+Host sip.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sip.tesla.com
+Host www-dev.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www-dev.tesla.com
+Host nuget.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nuget.github.tesla.com
+Host render.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: render.github-it.tesla.com
+Host fleetview.prd.europe.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.europe.vn.cloud.tesla.com
+Host citiapisslpocv3.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapisslpocv3.tesla.com
+Host search-akamai-apigateway-logisticsratesapi9.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi9.tesla.com
+Host 47.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: 47.tesla.com
+Host static-event-dev.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: static-event-dev.tesla.com
+Host nuget.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nuget.extgithub.tesla.com
+Host origin-pilotbpay.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: origin-pilotbpay.tesla.com
+Host sling.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sling.tesla.com
+Host external-3pl-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: external-3pl-stg.tesla.com
+Host dev.kronosdb.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dev.kronosdb.tesla.com
+Host fleetview.prd.america.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.america.vn.cloud.tesla.com
+Host paymentrecon-stage.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: paymentrecon-stage.tesla.com
+Host search-akamai-apigateway-jinx.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-jinx.tesla.com
+Host acs2-poc.voice.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: acs2-poc.voice.tesla.com
+Host search-akamai-apigateway-poland.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-poland.tesla.com
+Host my.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: my.tesla.com
+Host reply.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: reply.github.tesla.com
+Host docker.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: docker.github-fw.tesla.com
+Host origin-aurora-ordering-ext.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: origin-aurora-ordering-ext.tesla.com
+Host other.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: other.tesla.com
+Host secureaccess.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: secureaccess.tesla.com
+Host codeload.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: codeload.extgithub.tesla.com
+Host 51-tesla.ay.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: 51-tesla.ay.tesla.com
+Host uploads.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: uploads.github-ap.tesla.com
+Host gridlogic-qa.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gridlogic-qa.energy.tesla.com
+Host example.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: example.tesla.com
+Host www.powerhub.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.powerhub.energy.tesla.com
+Host referral-app.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: referral-app.tesla.com
+Host citiapiencsandboxv4.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapiencsandboxv4.tesla.com
+Host dex.ops.vs-bnc.na.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dex.ops.vs-bnc.na.vn.cloud.tesla.com
+Host excluded.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: excluded.tesla.com
+Host mfg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: mfg.tesla.com
+Host nuget.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nuget.github-ap.tesla.com
+Host raw.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raw.github-ap.tesla.com
+Host aurora-ordering-ext-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: aurora-ordering-ext-stg.tesla.com
+Host notebooks.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebooks.github-fw.tesla.com
+Host warpbilling.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: warpbilling.tesla.com
+Host reply.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: reply.github-fw.tesla.com
+Host gist.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gist.github-fw.tesla.com
+Host edgedns.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: edgedns.tesla.com
+Host uploads.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: uploads.github.tesla.com
+Host tweventhook.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: tweventhook.tesla.com
+Host gf.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gf.tesla.com
+Host acme-sentry-4.eng.use1.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: acme-sentry-4.eng.use1.vn.cloud.tesla.com
+Host akamai-apigateway-crawford-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-crawford-stg.tesla.com
+Host fleetview.prd.eu.fn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.eu.fn.tesla.com
+Host smtp.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: smtp.tesla.com
+Host factory-berlin.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: factory-berlin.tesla.com
+Host inside-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: inside-stg.tesla.com
+Host www.teslaquila.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.teslaquila.tesla.com
+Host w3-akamai-apigateway-procuretopayapi.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: w3-akamai-apigateway-procuretopayapi.tesla.com
+Host npm.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: npm.extgithub.tesla.com
+Host citiapiencprodv4.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapiencprodv4.tesla.com
+Host gridlogic-eng.powerhub.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gridlogic-eng.powerhub.energy.tesla.com
+Host nuget.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nuget.github-it.tesla.com
+Host gist.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gist.github-it.tesla.com
+Host phototravel.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: phototravel.tesla.com
+Host logs.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: logs.tesla.com
+Host viewscreen.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: viewscreen.extgithub.tesla.com
+Host acme-sentry-4a.eng.use1.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: acme-sentry-4a.eng.use1.vn.cloud.tesla.com
+Host beta-suppliers.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: beta-suppliers.tesla.com
+Host search-akamai-apigateway-trial.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-trial.tesla.com
+Host teslaquila.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: teslaquila.tesla.com
+Host lionshare.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: lionshare.tesla.com
+Host dgf.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dgf.tesla.com
+Host www.akamai-apigateway-charging-ownership.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.akamai-apigateway-charging-ownership.tesla.com
+Host members.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: members.tesla.com
+Host api-toolbox.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: api-toolbox.tesla.com
+Host citiapiencpocv3.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapiencpocv3.tesla.com
+Host us-west-2-prd-it.k8s.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: us-west-2-prd-it.k8s.tesla.com
+Host www.auth.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.auth.tesla.com
+Host sandbox-studio.courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sandbox-studio.courses.tesla.com
+Host akamai-apigateway-crawford-prd.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-crawford-prd.tesla.com
+Host notebooks.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebooks.github-ap.tesla.com
+Host nuget.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nuget.github-fw.tesla.com
+Host crpt.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: crpt.tesla.com
+Host avatars.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: avatars.github-fw.tesla.com
+Host ca.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: ca.tesla.com
+Host docker.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: docker.github-it.tesla.com
+Host os.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: os.tesla.com
+Host e382p434p572c.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: e382p434p572c.tesla.com
+Host business-bff-ownership.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: business-bff-ownership.tesla.com
+Host bender-auth.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: bender-auth.tesla.com
+Host financial-gw-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: financial-gw-stg.tesla.com
+Host sso-na.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sso-na.tesla.com
+Host www.toolbox.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.toolbox.tesla.com
+Host avatars.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: avatars.extgithub.tesla.com
+Host cn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cn.tesla.com
+Host beta-fvcarriers.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: beta-fvcarriers.tesla.com
+Host c382p434p572c.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: c382p434p572c.tesla.com
+Host raw.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raw.github-it.tesla.com
+Host sandbox-manager.courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sandbox-manager.courses.tesla.com
+Host cryptopay.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cryptopay.tesla.com
+Host citiapisslpoc.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapisslpoc.tesla.com
+Host uploads.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: uploads.github-it.tesla.com
+Host cryptopay4.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cryptopay4.tesla.com
+Host raultest.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raultest.tesla.com
+Host akamai-apigateway-einvoicing-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-einvoicing-stg.tesla.com
+Host www.teslatequila.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.teslatequila.tesla.com
+Host rubygems.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rubygems.github.tesla.com
+Host tssapi-aem-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: tssapi-aem-stg.tesla.com
+Host smt.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: smt.tesla.com
+Host aurora-ordering-ext.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: aurora-ordering-ext.tesla.com
+Host 3.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: 3.tesla.com
+Host webmail.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: webmail.tesla.com
+Host lionpayshare.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: lionpayshare.tesla.com
+Host npm.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: npm.github-it.tesla.com
+Host npm.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: npm.github-fw.tesla.com
+Host citiapiencpoc.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapiencpoc.tesla.com
+Host rubygems.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rubygems.github-ap.tesla.com
+Host sso-dec.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sso-dec.tesla.com
+Host raw.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: raw.github-fw.tesla.com
+Host githubmirrorber02.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: githubmirrorber02.tesla.com
+Host notebook.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebook.github-ap.tesla.com
+Host eaa-setup.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: eaa-setup.tesla.com
+Host apac.logs.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: apac.logs.tesla.com
+Host s3-sidekick-ssl.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: s3-sidekick-ssl.github.tesla.com
+Host notebook.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebook.github-fw.tesla.com
+Host maven.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: maven.extgithub.tesla.com
+Host eng.euw1.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: eng.euw1.vn.cloud.tesla.com
+Host www-stg2.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www-stg2.tesla.com
+Host na-1-sso.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: na-1-sso.tesla.com
+Host autobidder-eng.powerhub.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: autobidder-eng.powerhub.energy.tesla.com
+Host render.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: render.github-ap.tesla.com
+Host rubygems.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rubygems.github-fw.tesla.com
+Host cryptopay2.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cryptopay2.tesla.com
+Host www.uicrashtracer.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.uicrashtracer.tesla.com
+Host mirror.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: mirror.tesla.com
+Host cryptopay3.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: cryptopay3.tesla.com
+Host teslacis.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: teslacis.tesla.com
+Host eumirror.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: eumirror.tesla.com
+Host assets.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: assets.github-fw.tesla.com
+Host render.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: render.github-fw.tesla.com
+Host imap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: imap.tesla.com
+Host smarttax.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: smarttax.tesla.com
+Host employee-teslatequila.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: employee-teslatequila.tesla.com
+Host npm.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: npm.github.tesla.com
+Host wwwmta3-emailbjenkins.emails.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: wwwmta3-emailbjenkins.emails.tesla.com
+Host logtransit-ext.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: logtransit-ext.tesla.com
+Host uploads.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: uploads.extgithub.tesla.com
+Host appplayer.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: appplayer.tesla.com
+Host rubygems.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rubygems.github-it.tesla.com
+Host paymentrecon.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: paymentrecon.tesla.com
+Host fleetview.prd.na.fn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.na.fn.tesla.com
+Host pilot-bpay.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: pilot-bpay.tesla.com
+Host npm.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: npm.github-ap.tesla.com
+Host noservice.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: noservice.tesla.com
+Host dev.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dev.tesla.com
+Host gridlogic.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gridlogic.energy.tesla.com
+Host docker.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: docker.github-ap.tesla.com
+Host gist.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gist.github.tesla.com
+Host notebook.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebook.github-it.tesla.com
+Host fleetview.prd.usw2.fn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: fleetview.prd.usw2.fn.tesla.com
+Host na.logs.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: na.logs.tesla.com
+Host avatars.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: avatars.github-ap.tesla.com
+Host media.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: media.github.tesla.com
+Host media.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: media.extgithub.tesla.com
+Host multiplier.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: multiplier.tesla.com
+Host assets.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: assets.github-ap.tesla.com
+Host bcl.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: bcl.tesla.com
+Host maven.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: maven.github.tesla.com
+Host e.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: e.tesla.com
+Host notebooks.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: notebooks.github-it.tesla.com
+Host media.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: media.github-ap.tesla.com
+Host maven.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: maven.github-ap.tesla.com
+Host viewscreen.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: viewscreen.github-it.tesla.com
+Host reply.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: reply.github-ap.tesla.com
+Host githubmirror.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: githubmirror.tesla.com
+Host financeplatform.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: financeplatform.tesla.com
+Host dex.ops.na.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: dex.ops.na.vn.cloud.tesla.com
+Host group301.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: group301.tesla.com
+Host payment-dlocal-stg.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: payment-dlocal-stg.tesla.com
+Host docker.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: docker.github.tesla.com
+Host codeload.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: codeload.github-it.tesla.com
+Host paloalto.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: paloalto.tesla.com
+Host reply.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: reply.extgithub.tesla.com
+Host sjc04d1rsaap02.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: sjc04d1rsaap02.tesla.com
+Host svopn.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: svopn.tesla.com
+Host tssapi-aem.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: tssapi-aem.tesla.com
+Host tssapi.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: tssapi.tesla.com
+Host invest.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: invest.tesla.com
+Host citiapisslprodv4.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapisslprodv4.tesla.com
+Host lyncdiscover.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: lyncdiscover.tesla.com
+Host resources.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: resources.tesla.com
+Host email.vms.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: email.vms.tesla.com
+Host rubygems.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: rubygems.extgithub.tesla.com
+Host www.vpn1.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.vpn1.tesla.com
+Host powerwall.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: powerwall.tesla.com
+Host beta-partners.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: beta-partners.tesla.com
+Host mta2gh.emails.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: mta2gh.emails.tesla.com
+Host reply.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: reply.github-it.tesla.com
+Host avatars.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: avatars.github.tesla.com
+Host www.ug.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.ug.tesla.com
+Host signaling-ap-api.eng.vn.cloud.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: signaling-ap-api.eng.vn.cloud.tesla.com
+Host akamai-apigateway-prd-global-deliveryopsapi.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-prd-global-deliveryopsapi.tesla.com
+Host nas-origin.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: nas-origin.tesla.com
+Host render.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: render.github.tesla.com
+Host academiawashingtonribeiraopreto.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: academiawashingtonribeiraopreto.tesla.com
+Host citiapiencpocv2.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: citiapiencpocv2.tesla.com
+Host eu.logs.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: eu.logs.tesla.com
+Host payx-citiapi-prod.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: payx-citiapi-prod.tesla.com
+Host viewscreen.github.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: viewscreen.github.tesla.com
+Host avatars.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: avatars.github-it.tesla.com
+Host origin-toolbox-beta.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: origin-toolbox-beta.tesla.com
+Host bctpay.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: bctpay.tesla.com
+Host search-akamai-apigateway-logisticsratesapi-13.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi-13.tesla.com
+Host energysupport.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: energysupport.tesla.com
+Host server.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: server.tesla.com
+Host assets.github-it.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: assets.github-it.tesla.com
+Host codeload.github-fw.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: codeload.github-fw.tesla.com
+Host enterpriseregistration.c.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: enterpriseregistration.c.tesla.com
+Host docker.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: docker.extgithub.tesla.com
+Host vdi.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: vdi.tesla.com
+Host manager.courses.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: manager.courses.tesla.com
+Host gridlogic.powerhub.energy.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: gridlogic.powerhub.energy.tesla.com
+Host 20.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: 20.tesla.com
+Host codeload.github-ap.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: codeload.github-ap.tesla.com
+Host akamai-apigateway-finplat-prd.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: akamai-apigateway-finplat-prd.tesla.com
+Host productinfo.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: productinfo.tesla.com
+Host assets.extgithub.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: assets.extgithub.tesla.com
+Host www.ir.tesla.com not found: 3(NXDOMAIN)
+[!] Possible takeover: www.ir.tesla.com
+api.toolbox.tb.tesla.services
+gridlogic-eng.sn.tesla.services
+[!] Possible takeover: CitiApiEncProdv4.tesla.com
+[!] Possible takeover: CitiApiEncSandboxv4.tesla.com
+[!] Possible takeover: CitiApiSslProdv4.tesla.com
+[!] Possible takeover: CitiApiSslSandboxv4.tesla.com
+[!] Possible takeover: CitiBankStatementSHA512.tesla.com
+[!] Possible takeover: OpenADRClient.tesla.com
+[!] Possible takeover: Payx-CitiAPI-Prod.tesla.com
+[!] Possible takeover: acme-sentry-4.eng.use1.vn.cloud.tesla.com
+[!] Possible takeover: acme-sentry-4a.eng.use1.vn.cloud.tesla.com
+[!] Possible takeover: acs2-poc.voice.tesla.com
+[!] Possible takeover: akamai-apigateway-einvoicing-stg.tesla.com
+[!] Possible takeover: akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com
+[!] Possible takeover: apac.logs.tesla.com
+[!] Possible takeover: api-account-master.tesla.com
+[!] Possible takeover: api-toolbox.tesla.com
+[!] Possible takeover: appplayer.tesla.com
+[!] Possible takeover: assets.extgithub.tesla.com
+[!] Possible takeover: assets.github-ap.tesla.com
+[!] Possible takeover: assets.github-fw.tesla.com
+[!] Possible takeover: assets.github-it.tesla.com
+[!] Possible takeover: assets.github.tesla.com
+[!] Possible takeover: autobidder-eng.powerhub.energy.tesla.com
+[!] Possible takeover: avatars.extgithub.tesla.com
+[!] Possible takeover: avatars.github-ap.tesla.com
+[!] Possible takeover: avatars.github-fw.tesla.com
+[!] Possible takeover: avatars.github-it.tesla.com
+[!] Possible takeover: avatars.github.tesla.com
+[!] Possible takeover: awsbtest.tesla.com
+[!] Possible takeover: bctpay.tesla.com
+[!] Possible takeover: bom01-gpgw1.tesla.com
+[!] Possible takeover: bottlerocket.tesla.com
+[!] Possible takeover: c382p434p572c.tesla.com
+[!] Possible takeover: ca.tesla.com
+[!] Possible takeover: ciscoguest.tesla.com
+[!] Possible takeover: citiapiencpoc.tesla.com
+[!] Possible takeover: citiapiencpocV2.tesla.com
+[!] Possible takeover: citiapiencpocV3.tesla.com
+[!] Possible takeover: citiapisslpoc.tesla.com
+[!] Possible takeover: citiapisslpocV2.tesla.com
+[!] Possible takeover: citiapisslpocV3.tesla.com
+[!] Possible takeover: cn.tesla.com
+[!] Possible takeover: codeload.extgithub.tesla.com
+[!] Possible takeover: codeload.github-ap.tesla.com
+[!] Possible takeover: codeload.github-fw.tesla.com
+[!] Possible takeover: codeload.github-it.tesla.com
+[!] Possible takeover: codeload.github.tesla.com
+[!] Possible takeover: containers.extgithub.tesla.com
+[!] Possible takeover: cradlepointtest01.tesla.com
+[!] Possible takeover: cryptopay.tesla.com
+[!] Possible takeover: cryptopay2.tesla.com
+[!] Possible takeover: cryptopay3.tesla.com
+[!] Possible takeover: cryptopay4.tesla.com
+[!] Possible takeover: cssp-dev-teleport-proxy.tesla.com
+[!] Possible takeover: dev-hermes-qd.tesla.com
+[!] Possible takeover: dev.kronosdb.tesla.com
+[!] Possible takeover: dev.tesla.com
+[!] Possible takeover: dex.ops.na.vn.cloud.tesla.com
+[!] Possible takeover: dex.ops.vs-bnc.na.vn.cloud.tesla.com
+[!] Possible takeover: dgf.tesla.com
+[!] Possible takeover: docker.extgithub.tesla.com
+[!] Possible takeover: docker.github-ap.tesla.com
+[!] Possible takeover: docker.github-fw.tesla.com
+[!] Possible takeover: docker.github-it.tesla.com
+[!] Possible takeover: docker.github.tesla.com
+[!] Possible takeover: e382p434p572c.tesla.com
+[!] Possible takeover: employee-teslatequila.tesla.com
+[!] Possible takeover: energydesk.tesla.com
+[!] Possible takeover: energysupport.tesla.com
+[!] Possible takeover: eu.logs.tesla.com
+[!] Possible takeover: eua-origin.tesla.com
+[!] Possible takeover: eumirror.tesla.com
+[!] Possible takeover: factory-berlin.tesla.com
+[!] Possible takeover: fleetview.prd.america.vn.cloud.tesla.com
+[!] Possible takeover: fleetview.prd.eu.fn.tesla.com
+[!] Possible takeover: fleetview.prd.europe.vn.cloud.tesla.com
+[!] Possible takeover: fleetview.prd.euw1.fn.tesla.com
+[!] Possible takeover: fleetview.prd.na.fn.tesla.com
+[!] Possible takeover: fleetview.prd.usw2.fn.tesla.com
+[!] Possible takeover: gf.tesla.com
+[!] Possible takeover: gfb.vdi.tesla.com
+[!] Possible takeover: gist.extgithub.tesla.com
+[!] Possible takeover: gist.github-ap.tesla.com
+[!] Possible takeover: gist.github-fw.tesla.com
+[!] Possible takeover: gist.github-it.tesla.com
+[!] Possible takeover: gist.github.tesla.com
+[!] Possible takeover: github-ap.tesla.com
+[!] Possible takeover: github-fw.tesla.com
+[!] Possible takeover: github-it.tesla.com
+[!] Possible takeover: githubmirror.tesla.com
+[!] Possible takeover: githubmirroraus08.tesla.com
+[!] Possible takeover: githubmirrorber02.tesla.com
+[!] Possible takeover: gridlogic-eng.energy.tesla.com
+[!] Possible takeover: gridlogic-eng.powerhub.energy.tesla.com
+[!] Possible takeover: gridlogic.energy.tesla.com
+[!] Possible takeover: gridlogic.powerhub.energy.tesla.com
+[!] Possible takeover: kronosdb.tesla.com
+[!] Possible takeover: lionpayshare.tesla.com
+[!] Possible takeover: lionpaytest.tesla.com
+[!] Possible takeover: lionshare.tesla.com
+[!] Possible takeover: logs.tesla.com
+[!] Possible takeover: logtransit-ext.tesla.com
+[!] Possible takeover: manager.courses.tesla.com
+[!] Possible takeover: maven.extgithub.tesla.com
+[!] Possible takeover: maven.github-ap.tesla.com
+[!] Possible takeover: maven.github-fw.tesla.com
+[!] Possible takeover: maven.github-it.tesla.com
+[!] Possible takeover: maven.github.tesla.com
+[!] Possible takeover: media.extgithub.tesla.com
+[!] Possible takeover: media.github-ap.tesla.com
+[!] Possible takeover: media.github-fw.tesla.com
+[!] Possible takeover: media.github-it.tesla.com
+[!] Possible takeover: media.github.tesla.com
+[!] Possible takeover: mfa-dev.tesla.com
+[!] Possible takeover: mfg.tesla.com
+[!] Possible takeover: mirror.tesla.com
+[!] Possible takeover: my.tesla.com
+[!] Possible takeover: na.logs.tesla.com
+[!] Possible takeover: naa-origin.tesla.com
+[!] Possible takeover: nas-origin.tesla.com
+[!] Possible takeover: new-dev.tesla.com
+[!] Possible takeover: new.tesla.com
+[!] Possible takeover: notebook.github-ap.tesla.com
+[!] Possible takeover: notebook.github-fw.tesla.com
+[!] Possible takeover: notebook.github-it.tesla.com
+[!] Possible takeover: notebooks.extgithub.tesla.com
+[!] Possible takeover: notebooks.github-ap.tesla.com
+[!] Possible takeover: notebooks.github-fw.tesla.com
+[!] Possible takeover: notebooks.github-it.tesla.com
+[!] Possible takeover: notebooks.github.tesla.com
+[!] Possible takeover: npm.extgithub.tesla.com
+[!] Possible takeover: npm.github-ap.tesla.com
+[!] Possible takeover: npm.github-fw.tesla.com
+[!] Possible takeover: npm.github-it.tesla.com
+[!] Possible takeover: npm.github.tesla.com
+[!] Possible takeover: nuget.extgithub.tesla.com
+[!] Possible takeover: nuget.github-ap.tesla.com
+[!] Possible takeover: nuget.github-fw.tesla.com
+[!] Possible takeover: nuget.github-it.tesla.com
+[!] Possible takeover: nuget.github.tesla.com
+[!] Possible takeover: ny.tesla.com
+[!] Possible takeover: owner-api.eng.vn.cloud.tesla.com
+[!] Possible takeover: pages.extgithub.tesla.com
+[!] Possible takeover: pages.github-ap.tesla.com
+[!] Possible takeover: pages.github-fw.tesla.com
+[!] Possible takeover: pages.github-it.tesla.com
+[!] Possible takeover: pages.github.tesla.com
+[!] Possible takeover: paloalto.tesla.com
+[!] Possible takeover: payment-dlocal-prod.tesla.com
+[!] Possible takeover: payment-dlocal-stg.tesla.com
+[!] Possible takeover: paymentrecon-stage.tesla.com
+[!] Possible takeover: paymentrecon.tesla.com
+[!] Possible takeover: pilot-bpay.tesla.com
+[!] Possible takeover: raultest.tesla.com
+[!] Possible takeover: raw.extgithub.tesla.com
+[!] Possible takeover: raw.github-ap.tesla.com
+[!] Possible takeover: raw.github-fw.tesla.com
+[!] Possible takeover: raw.github-it.tesla.com
+[!] Possible takeover: raw.github.tesla.com
+[!] Possible takeover: render.github-ap.tesla.com
+[!] Possible takeover: render.github-fw.tesla.com
+[!] Possible takeover: render.github-it.tesla.com
+[!] Possible takeover: render.github.tesla.com
+[!] Possible takeover: reply.extgithub.tesla.com
+[!] Possible takeover: reply.github-ap.tesla.com
+[!] Possible takeover: reply.github-fw.tesla.com
+[!] Possible takeover: reply.github-it.tesla.com
+[!] Possible takeover: reply.github.tesla.com
+[!] Possible takeover: resources.tesla.com
+[!] Possible takeover: rubygems.extgithub.tesla.com
+[!] Possible takeover: rubygems.github-ap.tesla.com
+[!] Possible takeover: rubygems.github-fw.tesla.com
+[!] Possible takeover: rubygems.github-it.tesla.com
+[!] Possible takeover: rubygems.github.tesla.com
+[!] Possible takeover: rumipv6.tesla.com
+[!] Possible takeover: s3-sidekick-ssl.github.tesla.com
+[!] Possible takeover: sandbox-manager.courses.tesla.com
+[!] Possible takeover: sandbox-studio.courses.tesla.com
+[!] Possible takeover: sca.tesla.com
+[!] Possible takeover: secureaccess.tesla.com
+[!] Possible takeover: signaling-ap-api.eng.vn.cloud.tesla.com
+[!] Possible takeover: sling.tesla.com
+[!] Possible takeover: smarttax.tesla.com
+[!] Possible takeover: smt.tesla.com
+[!] Possible takeover: sso-dec.tesla.com
+[!] Possible takeover: sso-sandbox.tesla.com
+[!] Possible takeover: sso-sig.tesla.com
+[!] Possible takeover: stage.tesla.com
+[!] Possible takeover: studio.courses.tesla.com
+[!] Possible takeover: studio.sandbox-courses.tesla.com
+[!] Possible takeover: tesla-inc-docsys-eorg.tesla.com
+[!] Possible takeover: teslaquila.tesla.com
+[!] Possible takeover: toolbox-beta.tesla.com
+[!] Possible takeover: uploads.extgithub.tesla.com
+[!] Possible takeover: uploads.github-ap.tesla.com
+[!] Possible takeover: uploads.github-fw.tesla.com
+[!] Possible takeover: uploads.github-it.tesla.com
+[!] Possible takeover: uploads.github.tesla.com
+[!] Possible takeover: vdi.tesla.com
+[!] Possible takeover: vehicle-files.eng.vn.cloud.tesla.com
+[!] Possible takeover: vehicle-files.prd.vn.cloud.tesla.com
+[!] Possible takeover: viewscreen.extgithub.tesla.com
+[!] Possible takeover: viewscreen.github-ap.tesla.com
+[!] Possible takeover: viewscreen.github-fw.tesla.com
+[!] Possible takeover: viewscreen.github-it.tesla.com
+[!] Possible takeover: viewscreen.github.tesla.com
+[!] Possible takeover: vpn.tesla.com
+[!] Possible takeover: vrp-stg.tesla.com
+[!] Possible takeover: warpbilling.tesla.com
+[!] Possible takeover: wim.kronos.tesla.com
+[!] Possible takeover: www-dev.tesla.com
+[!] Possible takeover: www-stg2.tesla.com
+[!] Possible takeover: www-test.tesla.com
+[!] Possible takeover: www-uat.tesla.com
+[!] Possible takeover: www-uat2.tesla.com
+[!] Possible takeover: www.gridlogic.energy.tesla.com
+[!] Possible takeover: www.powerhub.energy.tesla.com
+[!] Possible takeover: www.sandbox-studio.courses.tesla.com
+[!] Possible takeover: www.teslaquila.tesla.com
+[!] Possible takeover: www.teslatequila.tesla.com
+[!] Possible takeover: www.toolbox.tesla.com
+[!] Possible takeover: www.ug.tesla.com
+[!] Possible takeover: www.vpn1.tesla.com
+[!] Possible takeover: www45.tesla.com
+[!] Possible takeover: zpra.tesla.com
+[!] Possible takeover: lyncdiscover.c.tesla.com
+[!] Possible takeover: viewscreen.github-ap.tesla.com
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi.tesla.com
+[!] Possible takeover: new-dev.tesla.com
+[!] Possible takeover: naa-origin.tesla.com
+[!] Possible takeover: tradein.tesla.com
+[!] Possible takeover: www-static-dev.tesla.com
+[!] Possible takeover: stage.tesla.com
+[!] Possible takeover: wim.kronos.tesla.com
+[!] Possible takeover: kronosdb.tesla.com
+[!] Possible takeover: gist.extgithub.tesla.com
+[!] Possible takeover: pages.github-it.tesla.com
+[!] Possible takeover: pages.github-ap.tesla.com
+[!] Possible takeover: bottlerocket.tesla.com
+[!] Possible takeover: rumipv6.tesla.com
+[!] Possible takeover: rioolbuizens.tesla.com
+[!] Possible takeover: pages.github-fw.tesla.com
+[!] Possible takeover: citiapisslsandboxv4.tesla.com
+[!] Possible takeover: search-akamai-apigateway-tomcat.tesla.com
+[!] Possible takeover: lionpaytest.tesla.com
+[!] Possible takeover: oneteam.tesla.com
+[!] Possible takeover: cradlepointtest01.tesla.com
+[!] Possible takeover: tesla-inc-docsys-eorg.tesla.com
+[!] Possible takeover: enterpriseregistration.tesla.com
+[!] Possible takeover: teslacdpna0.tesla.com
+[!] Possible takeover: github-fw.tesla.com
+[!] Possible takeover: fleetview.prd.euw1.fn.tesla.com
+[!] Possible takeover: studio.courses.tesla.com
+[!] Possible takeover: akamai-apigateway-vehicleextinfogw-stgsvc-st.tesla.com
+[!] Possible takeover: akamai-apigateway-stg-sandbox-automation.tesla.com
+[!] Possible takeover: gantry.tesla.com
+[!] Possible takeover: ww.tesla.com
+[!] Possible takeover: studio.sandbox-courses.tesla.com
+[!] Possible takeover: darkfield.tesla.com
+[!] Possible takeover: payment-public-stg.tesla.com
+[!] Possible takeover: openadrclient.tesla.com
+[!] Possible takeover: containers.extgithub.tesla.com
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapinl.tesla.com
+[!] Possible takeover: blog.tesla.com
+[!] Possible takeover: q1haoturxk.tesla.com
+[!] Possible takeover: warehouse-stg.tesla.com
+[!] Possible takeover: vehicle-files.prd.vn.cloud.tesla.com
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi-db.tesla.com
+[!] Possible takeover: zpra.tesla.com
+[!] Possible takeover: mfa-dev.tesla.com
+[!] Possible takeover: media.github-fw.tesla.com
+[!] Possible takeover: pages.github.tesla.com
+[!] Possible takeover: sso-sandbox.tesla.com
+[!] Possible takeover: gist.github-ap.tesla.com
+[!] Possible takeover: www.epc.tesla.com
+[!] Possible takeover: sso-sig.tesla.com
+[!] Possible takeover: viewscreen.github-fw.tesla.com
+[!] Possible takeover: owner-api.eng.vn.cloud.tesla.com
+[!] Possible takeover: wy7vtk21un.tesla.com
+[!] Possible takeover: www-uat.tesla.com
+[!] Possible takeover: sca.tesla.com
+[!] Possible takeover: github-ap.tesla.com
+[!] Possible takeover: origin-itanswers.tesla.com
+[!] Possible takeover: www.gridlogic.energy.tesla.com
+[!] Possible takeover: uploads.github-fw.tesla.com
+[!] Possible takeover: cssp-dev-teleport-proxy.tesla.com
+[!] Possible takeover: toolbox-beta.tesla.com
+[!] Possible takeover: na-2-sso.tesla.com
+[!] Possible takeover: citibankstatementsha512.tesla.com
+[!] Possible takeover: na-sso.tesla.com
+[!] Possible takeover: www.sandbox-studio.courses.tesla.com
+[!] Possible takeover: api-account-master.tesla.com
+[!] Possible takeover: github-it.tesla.com
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi-engine.tesla.com
+[!] Possible takeover: assets.github.tesla.com
+[!] Possible takeover: pages.extgithub.tesla.com
+[!] Possible takeover: gfb.vdi.tesla.com
+[!] Possible takeover: www-uat2.tesla.com
+[!] Possible takeover: vpn.tesla.com
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapiapp.tesla.com
+[!] Possible takeover: akamai-apigateway-stg-global-deliveryopsapi.tesla.com
+[!] Possible takeover: na-eq-sso.tesla.com
+[!] Possible takeover: notebooks.github.tesla.com
+[!] Possible takeover: notebooks.extgithub.tesla.com
+[!] Possible takeover: www-test.tesla.com
+[!] Possible takeover: codeload.github.tesla.com
+[!] Possible takeover: akamai-apigateway-scraprecycle.tesla.com
+[!] Possible takeover: akamai-apigateway-stg-bender.tesla.com
+[!] Possible takeover: zta-setup.tesla.com
+[!] Possible takeover: three.tesla.com
+[!] Possible takeover: vehicle-files.eng.vn.cloud.tesla.com
+[!] Possible takeover: aaa-dr.tesla.com
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi-reset.tesla.com
+[!] Possible takeover: raw.github.tesla.com
+[!] Possible takeover: akamai-apigateway-mfs-gfb-stg.tesla.com
+[!] Possible takeover: maven.github-fw.tesla.com
+[!] Possible takeover: githubmirroraus08.tesla.com
+[!] Possible takeover: energydesk.tesla.com
+[!] Possible takeover: maven.github-it.tesla.com
+[!] Possible takeover: origin-referral-app.tesla.com
+[!] Possible takeover: mail.tesla.com
+[!] Possible takeover: tssapi-stg.tesla.com
+[!] Possible takeover: bom01-gpgw1.tesla.com
+[!] Possible takeover: awsbtest.tesla.com
+[!] Possible takeover: media.github-it.tesla.com
+[!] Possible takeover: origin-inside-stg.tesla.com
+[!] Possible takeover: teslacmgus0.tesla.com
+[!] Possible takeover: akamai-apigateway-stg2-global-deliveryopsapi.tesla.com
+[!] Possible takeover: citiapisslpocv2.tesla.com
+[!] Possible takeover: raw.extgithub.tesla.com
+[!] Possible takeover: ciscoguest.tesla.com
+[!] Possible takeover: payment-dlocal-prod.tesla.com
+[!] Possible takeover: new.tesla.com
+[!] Possible takeover: gridlogic-eng.energy.tesla.com
+[!] Possible takeover: gf-modeling-mpp.tesla.com
+[!] Possible takeover: vrp-stg.tesla.com
+[!] Possible takeover: ny.tesla.com
+[!] Possible takeover: auth-i.tesla.com
+[!] Possible takeover: akamai-apigateway-finplat-stg.tesla.com
+[!] Possible takeover: apac-sso.tesla.com
+[!] Possible takeover: eua-origin.tesla.com
+[!] Possible takeover: www45.tesla.com
+[!] Possible takeover: dev-hermes-qd.tesla.com
+[!] Possible takeover: pop.tesla.com
+[!] Possible takeover: aurora-ordering-ext-qa.tesla.com
+[!] Possible takeover: kpai7ycr7jxqkilp.tesla.com
+[!] Possible takeover: sip.tesla.com
+[!] Possible takeover: www-dev.tesla.com
+[!] Possible takeover: nuget.github.tesla.com
+[!] Possible takeover: www-static-qa.tesla.com
+[!] Possible takeover: render.github-it.tesla.com
+[!] Possible takeover: fleetview.prd.europe.vn.cloud.tesla.com
+[!] Possible takeover: citiapisslpocv3.tesla.com
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi9.tesla.com
+[!] Possible takeover: 47.tesla.com
+[!] Possible takeover: static-event-dev.tesla.com
+[!] Possible takeover: nuget.extgithub.tesla.com
+[!] Possible takeover: origin-pilotbpay.tesla.com
+[!] Possible takeover: sling.tesla.com
+[!] Possible takeover: external-3pl-stg.tesla.com
+[!] Possible takeover: dev.kronosdb.tesla.com
+[!] Possible takeover: fleetview.prd.america.vn.cloud.tesla.com
+[!] Possible takeover: paymentrecon-stage.tesla.com
+[!] Possible takeover: search-akamai-apigateway-jinx.tesla.com
+[!] Possible takeover: acs2-poc.voice.tesla.com
+[!] Possible takeover: search-akamai-apigateway-poland.tesla.com
+[!] Possible takeover: my.tesla.com
+[!] Possible takeover: reply.github.tesla.com
+[!] Possible takeover: docker.github-fw.tesla.com
+[!] Possible takeover: origin-aurora-ordering-ext.tesla.com
+[!] Possible takeover: other.tesla.com
+[!] Possible takeover: secureaccess.tesla.com
+[!] Possible takeover: codeload.extgithub.tesla.com
+[!] Possible takeover: 51-tesla.ay.tesla.com
+[!] Possible takeover: uploads.github-ap.tesla.com
+[!] Possible takeover: gridlogic-qa.energy.tesla.com
+[!] Possible takeover: example.tesla.com
+[!] Possible takeover: www.powerhub.energy.tesla.com
+[!] Possible takeover: referral-app.tesla.com
+[!] Possible takeover: citiapiencsandboxv4.tesla.com
+[!] Possible takeover: dex.ops.vs-bnc.na.vn.cloud.tesla.com
+[!] Possible takeover: excluded.tesla.com
+[!] Possible takeover: mfg.tesla.com
+[!] Possible takeover: nuget.github-ap.tesla.com
+[!] Possible takeover: raw.github-ap.tesla.com
+[!] Possible takeover: aurora-ordering-ext-stg.tesla.com
+[!] Possible takeover: notebooks.github-fw.tesla.com
+[!] Possible takeover: warpbilling.tesla.com
+[!] Possible takeover: reply.github-fw.tesla.com
+[!] Possible takeover: gist.github-fw.tesla.com
+[!] Possible takeover: edgedns.tesla.com
+[!] Possible takeover: uploads.github.tesla.com
+[!] Possible takeover: tweventhook.tesla.com
+[!] Possible takeover: gf.tesla.com
+[!] Possible takeover: acme-sentry-4.eng.use1.vn.cloud.tesla.com
+[!] Possible takeover: akamai-apigateway-crawford-stg.tesla.com
+[!] Possible takeover: fleetview.prd.eu.fn.tesla.com
+[!] Possible takeover: smtp.tesla.com
+[!] Possible takeover: factory-berlin.tesla.com
+[!] Possible takeover: inside-stg.tesla.com
+[!] Possible takeover: www.teslaquila.tesla.com
+[!] Possible takeover: w3-akamai-apigateway-procuretopayapi.tesla.com
+[!] Possible takeover: npm.extgithub.tesla.com
+[!] Possible takeover: citiapiencprodv4.tesla.com
+[!] Possible takeover: gridlogic-eng.powerhub.energy.tesla.com
+[!] Possible takeover: nuget.github-it.tesla.com
+[!] Possible takeover: gist.github-it.tesla.com
+[!] Possible takeover: phototravel.tesla.com
+[!] Possible takeover: logs.tesla.com
+[!] Possible takeover: viewscreen.extgithub.tesla.com
+[!] Possible takeover: acme-sentry-4a.eng.use1.vn.cloud.tesla.com
+[!] Possible takeover: beta-suppliers.tesla.com
+[!] Possible takeover: search-akamai-apigateway-trial.tesla.com
+[!] Possible takeover: teslaquila.tesla.com
+[!] Possible takeover: lionshare.tesla.com
+[!] Possible takeover: dgf.tesla.com
+[!] Possible takeover: www.akamai-apigateway-charging-ownership.tesla.com
+[!] Possible takeover: members.tesla.com
+[!] Possible takeover: api-toolbox.tesla.com
+[!] Possible takeover: citiapiencpocv3.tesla.com
+[!] Possible takeover: us-west-2-prd-it.k8s.tesla.com
+[!] Possible takeover: www.auth.tesla.com
+[!] Possible takeover: sandbox-studio.courses.tesla.com
+[!] Possible takeover: simpleorigin.tesla.com
+[!] Possible takeover: akamai-apigateway-crawford-prd.tesla.com
+[!] Possible takeover: notebooks.github-ap.tesla.com
+[!] Possible takeover: nuget.github-fw.tesla.com
+[!] Possible takeover: crpt.tesla.com
+[!] Possible takeover: avatars.github-fw.tesla.com
+[!] Possible takeover: ca.tesla.com
+[!] Possible takeover: docker.github-it.tesla.com
+[!] Possible takeover: os.tesla.com
+[!] Possible takeover: e382p434p572c.tesla.com
+[!] Possible takeover: business-bff-ownership.tesla.com
+[!] Possible takeover: bender-auth.tesla.com
+[!] Possible takeover: financial-gw-stg.tesla.com
+[!] Possible takeover: sso-na.tesla.com
+[!] Possible takeover: www.toolbox.tesla.com
+[!] Possible takeover: avatars.extgithub.tesla.com
+[!] Possible takeover: cn.tesla.com
+[!] Possible takeover: beta-fvcarriers.tesla.com
+[!] Possible takeover: c382p434p572c.tesla.com
+[!] Possible takeover: raw.github-it.tesla.com
+[!] Possible takeover: sandbox-manager.courses.tesla.com
+[!] Possible takeover: cryptopay.tesla.com
+[!] Possible takeover: citiapisslpoc.tesla.com
+[!] Possible takeover: uploads.github-it.tesla.com
+[!] Possible takeover: cryptopay4.tesla.com
+[!] Possible takeover: raultest.tesla.com
+[!] Possible takeover: akamai-apigateway-einvoicing-stg.tesla.com
+[!] Possible takeover: www.teslatequila.tesla.com
+[!] Possible takeover: rubygems.github.tesla.com
+[!] Possible takeover: tssapi-aem-stg.tesla.com
+[!] Possible takeover: www-static-stage.tesla.com
+[!] Possible takeover: smt.tesla.com
+[!] Possible takeover: aurora-ordering-ext.tesla.com
+[!] Possible takeover: 3.tesla.com
+[!] Possible takeover: webmail.tesla.com
+[!] Possible takeover: lionpayshare.tesla.com
+[!] Possible takeover: npm.github-it.tesla.com
+[!] Possible takeover: npm.github-fw.tesla.com
+[!] Possible takeover: citiapiencpoc.tesla.com
+[!] Possible takeover: rubygems.github-ap.tesla.com
+[!] Possible takeover: sso-dec.tesla.com
+[!] Possible takeover: raw.github-fw.tesla.com
+[!] Possible takeover: githubmirrorber02.tesla.com
+[!] Possible takeover: notebook.github-ap.tesla.com
+[!] Possible takeover: eaa-setup.tesla.com
+[!] Possible takeover: apac.logs.tesla.com
+[!] Possible takeover: s3-sidekick-ssl.github.tesla.com
+[!] Possible takeover: notebook.github-fw.tesla.com
+[!] Possible takeover: maven.extgithub.tesla.com
+[!] Possible takeover: eng.euw1.vn.cloud.tesla.com
+[!] Possible takeover: www-stg2.tesla.com
+[!] Possible takeover: na-1-sso.tesla.com
+[!] Possible takeover: autobidder-eng.powerhub.energy.tesla.com
+[!] Possible takeover: render.github-ap.tesla.com
+[!] Possible takeover: rubygems.github-fw.tesla.com
+[!] Possible takeover: cryptopay2.tesla.com
+[!] Possible takeover: www.uicrashtracer.tesla.com
+[!] Possible takeover: mirror.tesla.com
+[!] Possible takeover: cryptopay3.tesla.com
+[!] Possible takeover: teslacis.tesla.com
+[!] Possible takeover: eumirror.tesla.com
+[!] Possible takeover: assets.github-fw.tesla.com
+[!] Possible takeover: render.github-fw.tesla.com
+[!] Possible takeover: imap.tesla.com
+[!] Possible takeover: smarttax.tesla.com
+[!] Possible takeover: employee-teslatequila.tesla.com
+[!] Possible takeover: npm.github.tesla.com
+[!] Possible takeover: wwwmta3-emailbjenkins.emails.tesla.com
+[!] Possible takeover: logtransit-ext.tesla.com
+[!] Possible takeover: uploads.extgithub.tesla.com
+[!] Possible takeover: appplayer.tesla.com
+[!] Possible takeover: rubygems.github-it.tesla.com
+[!] Possible takeover: www-static-prod.tesla.com
+[!] Possible takeover: paymentrecon.tesla.com
+[!] Possible takeover: fleetview.prd.na.fn.tesla.com
+[!] Possible takeover: pilot-bpay.tesla.com
+[!] Possible takeover: npm.github-ap.tesla.com
+[!] Possible takeover: noservice.tesla.com
+[!] Possible takeover: dev.tesla.com
+[!] Possible takeover: gridlogic.energy.tesla.com
+[!] Possible takeover: docker.github-ap.tesla.com
+[!] Possible takeover: gist.github.tesla.com
+[!] Possible takeover: notebook.github-it.tesla.com
+[!] Possible takeover: fleetview.prd.usw2.fn.tesla.com
+[!] Possible takeover: na.logs.tesla.com
+[!] Possible takeover: avatars.github-ap.tesla.com
+[!] Possible takeover: media.github.tesla.com
+[!] Possible takeover: media.extgithub.tesla.com
+[!] Possible takeover: multiplier.tesla.com
+[!] Possible takeover: assets.github-ap.tesla.com
+[!] Possible takeover: bcl.tesla.com
+[!] Possible takeover: maven.github.tesla.com
+[!] Possible takeover: e.tesla.com
+[!] Possible takeover: notebooks.github-it.tesla.com
+[!] Possible takeover: media.github-ap.tesla.com
+[!] Possible takeover: maven.github-ap.tesla.com
+[!] Possible takeover: viewscreen.github-it.tesla.com
+[!] Possible takeover: reply.github-ap.tesla.com
+[!] Possible takeover: githubmirror.tesla.com
+[!] Possible takeover: financeplatform.tesla.com
+[!] Possible takeover: dex.ops.na.vn.cloud.tesla.com
+[!] Possible takeover: group301.tesla.com
+[!] Possible takeover: payment-dlocal-stg.tesla.com
+[!] Possible takeover: docker.github.tesla.com
+[!] Possible takeover: codeload.github-it.tesla.com
+[!] Possible takeover: paloalto.tesla.com
+[!] Possible takeover: reply.extgithub.tesla.com
+[!] Possible takeover: sjc04d1rsaap02.tesla.com
+[!] Possible takeover: svopn.tesla.com
+[!] Possible takeover: tssapi-aem.tesla.com
+[!] Possible takeover: tssapi.tesla.com
+[!] Possible takeover: invest.tesla.com
+[!] Possible takeover: citiapisslprodv4.tesla.com
+[!] Possible takeover: lyncdiscover.tesla.com
+[!] Possible takeover: resources.tesla.com
+[!] Possible takeover: email.vms.tesla.com
+[!] Possible takeover: rubygems.extgithub.tesla.com
+[!] Possible takeover: www.vpn1.tesla.com
+[!] Possible takeover: powerwall.tesla.com
+[!] Possible takeover: beta-partners.tesla.com
+[!] Possible takeover: mta2gh.emails.tesla.com
+[!] Possible takeover: reply.github-it.tesla.com
+[!] Possible takeover: avatars.github.tesla.com
+[!] Possible takeover: www.ug.tesla.com
+[!] Possible takeover: signaling-ap-api.eng.vn.cloud.tesla.com
+[!] Possible takeover: akamai-apigateway-prd-global-deliveryopsapi.tesla.com
+[!] Possible takeover: nas-origin.tesla.com
+[!] Possible takeover: render.github.tesla.com
+[!] Possible takeover: academiawashingtonribeiraopreto.tesla.com
+[!] Possible takeover: citiapiencpocv2.tesla.com
+[!] Possible takeover: eu.logs.tesla.com
+[!] Possible takeover: payx-citiapi-prod.tesla.com
+[!] Possible takeover: viewscreen.github.tesla.com
+[!] Possible takeover: avatars.github-it.tesla.com
+[!] Possible takeover: origin-toolbox-beta.tesla.com
+[!] Possible takeover: bctpay.tesla.com
+[!] Possible takeover: search-akamai-apigateway-logisticsratesapi-13.tesla.com
+[!] Possible takeover: energysupport.tesla.com
+[!] Possible takeover: server.tesla.com
+[!] Possible takeover: assets.github-it.tesla.com
+[!] Possible takeover: codeload.github-fw.tesla.com
+[!] Possible takeover: enterpriseregistration.c.tesla.com
+[!] Possible takeover: docker.extgithub.tesla.com
+[!] Possible takeover: vdi.tesla.com
+[!] Possible takeover: manager.courses.tesla.com
+[!] Possible takeover: gridlogic.powerhub.energy.tesla.com
+[!] Possible takeover: 20.tesla.com
+[!] Possible takeover: codeload.github-ap.tesla.com
+[!] Possible takeover: akamai-apigateway-finplat-prd.tesla.com
+[!] Possible takeover: productinfo.tesla.com
+[!] Possible takeover: assets.extgithub.tesla.com
+[!] Possible takeover: www.ir.tesla.com
+[!] Possible takeover: www-uat.tesla.com
